@@ -34,7 +34,7 @@ TravelTide is an e-booking startup in the online travel industry that provides c
 #### Presentation
 * **Project Summary** (TravelTide_Project_Summary_Guido_Greger.pdf): Executive summary and detailed project report
 * **Presentation Slides** (TravelTide_Presentation_Guido_Greger.pdf): Slides for stakeholder presentation
-* **Presentation Video** (TravelTide_Video_Presentation_Guido_Greger.mp4): Recorded presentation of the project findings
+* **Presentation Video** Due to the file size limitations of GitHub you can find my recorded presentation here: [The Loyalty Compass - Data-Driven Pathways to Personalized Travel Rewards](https://drive.google.com/file/d/1lX0sqTJDQhnzBgTBteRZGIw0OlzlKvpE/view?usp=sharing)
 
 ## Methodology
 ### Data Scope
